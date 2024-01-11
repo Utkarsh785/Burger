@@ -765,7 +765,7 @@ section{
 }
 
 .animate-bounce{
-  animation: bounce 1s infinite;
+  animation: bounce 2s infinite;
 }
 
 .cursor-pointer{
@@ -930,6 +930,10 @@ section{
 
 .p-2{
   padding: 0.5rem;
+}
+
+.p-4{
+  padding: 1rem;
 }
 
 .p-6{
